@@ -8,3 +8,10 @@
 [ INFO ] - UserHandler:45 - New message accepted: Vlad: hi
 [ INFO ] - UserHandler:45 - New message accepted: Vlad: fdsfs
 [ INFO ] - UserHandler:41 - Vlad, Socket[addr=/127.0.0.1,port=54027,localport=8080] disconnected
+[ INFO ] - Server:24 - Server started at 2023-07-05T08:17:04.642138700
+[ INFO ] - Server:24 - Server started at 2023-07-05T08:23:36.648478500
+[ INFO ] - Server:29 - New user connected: Socket[addr=/127.0.0.1,port=63431,localport=8080]
+[ INFO ] - UserHandler:45 - New message accepted: Vlad: Hey hey
+[ INFO ] - UserHandler:45 - New message accepted: Vlad: Test
+[ INFO ] - UserHandler:45 - New message accepted: Vlad: fucker
+[ INFO ] - UserHandler:41 - Vlad, Socket[addr=/127.0.0.1,port=63431,localport=8080] disconnected
