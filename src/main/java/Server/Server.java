@@ -1,3 +1,6 @@
+package Server;
+
+import UserHandler.UserHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,10 +17,11 @@ public class Server {
     private static final Logger logger = LoggerFactory.getLogger(Server.class.getName());
     private static Socket clientSocket;
     private static ServerSocket server;
+    private static int port;
     private static final ArrayList<UserHandler> userList = new ArrayList<>();
 
     public Server() {
-        int port = getPortFromSettings("src/main/resources/settings.txt");
+        port = getPortFromSettings("src/main/resources/settings.txt");
         try {
             server = new ServerSocket(port);
             System.out.println("Server started!");
@@ -58,7 +62,7 @@ public class Server {
             String[] portSplited = port.split(":");
             return Integer.parseInt(portSplited[1]);
         } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
+            throw new RuntimeException();
         }
 
     }

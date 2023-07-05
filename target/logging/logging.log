@@ -15,3 +15,4 @@
 [ INFO ] - UserHandler:45 - New message accepted: Vlad: Test
 [ INFO ] - UserHandler:45 - New message accepted: Vlad: fucker
 [ INFO ] - UserHandler:41 - Vlad, Socket[addr=/127.0.0.1,port=63431,localport=8080] disconnected
+[ INFO ] - Server.Server:28 - Server started at 2023-07-05T09:58:57.117327800
