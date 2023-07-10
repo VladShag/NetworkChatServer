@@ -30,7 +30,6 @@ public class Server {
                 while (true) {
                     clientSocket = server.accept();
                     System.out.println("New client accepted!");
-                    logger.info("New user connected: {}", clientSocket);
                     UserHandler user = new UserHandler(this, clientSocket);
                     userList.add(user);
                 }

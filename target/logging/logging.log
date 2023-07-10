@@ -16,3 +16,32 @@
 [ INFO ] - UserHandler:45 - New message accepted: Vlad: fucker
 [ INFO ] - UserHandler:41 - Vlad, Socket[addr=/127.0.0.1,port=63431,localport=8080] disconnected
 [ INFO ] - Server.Server:28 - Server started at 2023-07-05T09:58:57.117327800
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T16:55:19.458429900
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T16:56:44.830998100
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:09:46.194876
+[ INFO ] - UserHandler.UserHandler:36 - Vlad Socket[addr=/127.0.0.1,port=52723,localport=8080] is connected!
+[ INFO ] - UserHandler.UserHandler:50 - New message accepted: Vlad: Hi everyone
+[ INFO ] - UserHandler.UserHandler:50 - New message accepted: Vlad: How are you?
+[ INFO ] - UserHandler.UserHandler:50 - New message accepted: Vlad: Goodbye
+[ INFO ] - UserHandler.UserHandler:46 - Vlad, Socket[addr=/127.0.0.1,port=52723,localport=8080] disconnected
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:24:47.045622700
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:25:10.560936600
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:25:38.692918100
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:41:18.403588400
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:51:11.248190200
+[ INFO ] - UserHandler.UserHandler:39 - [2023-07-10T17:51:24] Vlad Socket[addr=/127.0.0.1,port=54450,localport=8080] is connected!
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:51:24] New message accepted: Vlad: Hello
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:51:24] New message accepted: Vlad: how are you
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:51:24] New message accepted: Vlad: ???
+[ INFO ] - UserHandler.UserHandler:50 - [2023-07-10T17:51:24] Vlad, Socket[addr=/127.0.0.1,port=54450,localport=8080] disconnected
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:57:06.730892700
+[ INFO ] - UserHandler.UserHandler:39 - [2023-07-10T17:57:15] Vlad Socket[addr=/127.0.0.1,port=54579,localport=8080] is connected!
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:57:15] New message accepted: Vlad: Hi
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:57:15] New message accepted: Vlad: How are you?
+[ INFO ] - Server.Server:28 - Server started at 2023-07-10T17:59:12.860250700
+[ INFO ] - UserHandler.UserHandler:39 - [2023-07-10T17:59:22] Vlad Socket[addr=/127.0.0.1,port=54621,localport=8080] is connected!
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:59:22] New message accepted: Vlad: Hi
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:59:22] New message accepted: Vlad: How are you?
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:59:22] New message accepted: Vlad: NNN
+[ INFO ] - UserHandler.UserHandler:54 - [2023-07-10T17:59:22] New message accepted: Vlad: BBB
+[ INFO ] - UserHandler.UserHandler:50 - [2023-07-10T17:59:22] Vlad, Socket[addr=/127.0.0.1,port=54621,localport=8080] disconnected
